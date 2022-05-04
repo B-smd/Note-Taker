@@ -29,7 +29,7 @@ When the user click on the save icon, then the new note the user have entered is
 ![Note-Taker](./Demo/ScreenShot3.png)
 ![Note-Taker](./Demo/ScreenShot4.png)
 
-- Heroku link: 
+- Heroku link: https://note-taker-bambang.herokuapp.com/
 
 ## Credits
 - https://github.com/Simon-Xu-Lan
