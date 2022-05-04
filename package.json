@@ -1,0 +1,29 @@
+{
+  "name": "note-taker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "sever.js",
+  "scripts": {
+    "watch": "nodemon server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/B-smd/Note-Taker.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/B-smd/Note-Taker/issues"
+  },
+  "homepage": "https://github.com/B-smd/Note-Taker#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "inquirer": "^8.2.4",
+    "uuid": "^8.3.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.16"
+  }
+}
